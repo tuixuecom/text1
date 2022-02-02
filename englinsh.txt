@@ -1,0 +1,4 @@
+ubiquitous 普遍存在的，无处不在的
+sensor        传感器，灵敏元件
+consumption 消耗
+meter 计量器
